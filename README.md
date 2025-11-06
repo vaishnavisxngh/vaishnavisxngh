@@ -1,6 +1,6 @@
 ## Hi, I'm Vaishnavi Singh 👋  
 🎓 Computer Science Student at KIIT University  
-💻 Designer | 🛠️ Developer | 🌙 Dreamer  
+💻 Designer | 🛠️ Developer | 🌙 Maker  
 
 I'm passionate about building meaningful tech, designing intuitive user experiences, and constantly learning something new.  
 
